@@ -17,7 +17,7 @@ npx skills add https://github.com/vercel-labs/skills --skill find-skills
 
 https://github.com/antfu/skills
 ```
-npx skills add https://github.com/antfu/skills --skill vue
+npx skills add https://github.com/antfu/skills --skill antfu
 ```
 
 ### Javascript / Typescript
