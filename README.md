@@ -4,6 +4,10 @@
 
 https://github.com/vercel-labs/skills
 
+## Common skills
+
+https://skills.sh/vercel-labs/skills/find-skills
+
 ## FE
 
 ### Vue.js
