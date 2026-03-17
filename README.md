@@ -64,12 +64,12 @@ https://skills.sh/prisma/skills/prisma-client-api
 npx skills add https://github.com/prisma/skills --skill prisma-client-api
 ```
 
+## PostgreSQL
+
 https://skills.sh/github/awesome-copilot/postgresql-code-review
 ```
 npx skills add https://github.com/github/awesome-copilot --skill postgresql-code-review
 ```
-
-## PostgreSQL
 
 https://skills.sh/github/awesome-copilot/postgresql-optimization
 ```
