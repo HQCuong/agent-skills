@@ -64,6 +64,25 @@ https://skills.sh/prisma/skills/prisma-client-api
 npx skills add https://github.com/prisma/skills --skill prisma-client-api
 ```
 
+https://skills.sh/github/awesome-copilot/postgresql-code-review
+```
+npx skills add https://github.com/github/awesome-copilot --skill postgresql-code-review
+```
+
+## PostgreSQL
+
+https://skills.sh/github/awesome-copilot/postgresql-optimization
+```
+npx skills add https://github.com/github/awesome-copilot --skill postgresql-optimization
+```
+
+## Docker
+
+https://skills.sh/github/awesome-copilot/multi-stage-dockerfile
+```
+npx skills add https://github.com/github/awesome-copilot --skill multi-stage-dockerfile
+```
+
 ### Context7 instruction
 Always use context7 when I need code generation, setup or configuration steps, or library/API documentation. This means you should automatically use the Context7 MCP tools to resolve library id and get library docs without me having to explicitly ask.
 
