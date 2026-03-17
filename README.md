@@ -43,6 +43,27 @@ https://skills.sh/wshobson/agents/typescript-advanced-types
 npx skills add https://github.com/wshobson/agents --skill typescript-advanced-types
 ```
 
+## BE
+
+### NestJs
+
+https://skills.sh/kadajett/agent-nestjs-skills/nestjs-best-practices
+```
+npx skills add https://github.com/kadajett/agent-nestjs-skills --skill nestjs-best-practices
+```
+
+## Prisma
+
+https://skills.sh/prisma/skills/prisma-database-setup
+```
+npx skills add https://github.com/prisma/skills --skill prisma-database-setup
+```
+
+https://skills.sh/prisma/skills/prisma-client-api
+```
+npx skills add https://github.com/prisma/skills --skill prisma-client-api
+```
+
 ### Context7 instruction
 Always use context7 when I need code generation, setup or configuration steps, or library/API documentation. This means you should automatically use the Context7 MCP tools to resolve library id and get library docs without me having to explicitly ask.
 
